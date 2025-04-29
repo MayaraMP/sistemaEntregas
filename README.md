@@ -91,7 +91,8 @@ Ao executar a classe `Main`, o seguinte fluxo acontece:
 
 ## Diagrama de Classes
 
-![image](https://github.com/user-attachments/assets/d973fed9-67eb-4915-80dc-46e61fa76565)
+![image](https://github.com/user-attachments/assets/5942c792-c260-438e-8192-8a92ed692b09)
+
 
 
 ## Como Usar
